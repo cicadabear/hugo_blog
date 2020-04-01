@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>about on Young &amp; Wild</title>
+    <link>http://cicadabear.github.com/tags/about/</link>
+    <description>Recent content in about on Young &amp; Wild</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 31 Mar 2020 11:46:09 +0800</lastBuildDate>
+    
+	<atom:link href="http://cicadabear.github.com/tags/about/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>About</title>
+      <link>http://cicadabear.github.com/about/</link>
+      <pubDate>Tue, 31 Mar 2020 11:46:09 +0800</pubDate>
+      
+      <guid>http://cicadabear.github.com/about/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
